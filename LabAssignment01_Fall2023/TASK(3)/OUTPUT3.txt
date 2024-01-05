@@ -1,0 +1,7 @@
+Id:4 Mark:50
+Id:9 Mark:50
+Id:7 Mark:40
+Id:3 Mark:20
+Id:1 Mark:10
+Id:2 Mark:10
+Id:5 Mark:10
